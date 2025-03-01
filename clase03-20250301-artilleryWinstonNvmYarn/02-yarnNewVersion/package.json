@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "name": "02-yarnNewVersion",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2"
+  }
+}
